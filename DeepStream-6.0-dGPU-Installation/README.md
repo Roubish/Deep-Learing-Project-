@@ -65,5 +65,5 @@ The sessions will have teaching content to study DeepStream.
 
 # Follow Us:
 
-You can follow me on LinkedIN from here -> <a href="https://linkedin.com/IN/rajeshroy402">Rajesh Roy</a> <br/>
-Follow the contributor from here -> <a href="https://www.linkedin.com/in/divyanka-thakur-366aa5194/">Divyanka Thakur</a>
+You can follow me on LinkedIN from here -> <a href="https://www.linkedin.com/in/roubishkrpushkar">Roubish</a> <br/>
+Follow the contributor from here -> <a href="https://www.linkedin.com/in/roubishkrpushkar/">Roubish</a>
