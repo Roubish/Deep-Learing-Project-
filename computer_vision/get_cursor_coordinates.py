@@ -1,4 +1,8 @@
 # importing the module
+'''
+#         ffmpeg -ss 00:00 -t 00:01 -i arya_shutter.avi -r 1 gra-%03d.jpg
+'''
+
 import cv2
 
 # function to display the coordinates of
